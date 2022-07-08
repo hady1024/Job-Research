@@ -4,7 +4,7 @@
 
 ## Front-end,Back-end 채용공고
 
-💎 카카오엔터프라이즈
+### 💎 카카오엔터프라이즈
 
 - 업무 내용
   - End-To-End를 책임지는 신규 데이터 플랫폼 개발
@@ -24,7 +24,7 @@
 
 
 
-💎 당근마켓
+### 💎 당근마켓
 
 - 기술 스택
   - Ruby on Rails, Vue.js, Redis, PostgreSQL, gRPC, Amazon Neptune
@@ -45,7 +45,7 @@
 
 
 
-💎 넥슨코리아
+### 💎 넥슨코리아
 
 - 기술 스택
   - MYSQL, Python, Go
@@ -66,7 +66,7 @@
 
 
 
-💎 쿠팡
+### 💎 쿠팡
 
 - 기술 스택
   - Python, Java, Spring
@@ -93,7 +93,7 @@
 
 
 
-💎 샌드박스
+### 💎 샌드박스
 
 - 기술 스택
   - MySQL, Flask, Docker, AWS, Node.js, Djang, Python
@@ -117,7 +117,7 @@
 
 
 
-💎 요기요
+### 💎 요기요
 
 - 기술 스택
   - Oracle, JavaScript, Java, Python, MySQL, Node.JS
@@ -144,7 +144,7 @@
 
 
 
-💎 콴다
+### 💎 콴다
 
 - 기술 스택
   - Microservice Architecture, Kubernetes, Kotlin, Ruby, Go, Python, Spring, Java
@@ -168,7 +168,7 @@
 
 
 
-💎 야놀자 클라우드 (데이터엔지니어)
+### 💎 야놀자 클라우드 (데이터엔지니어)
 
 - 기술 스택
   - SQL, Node.js, Python
@@ -201,7 +201,7 @@
 
 
 
-💎 ZUM
+### 💎 ZUM
 
 - 업무 내용
   - 줌닷컴, 검색, 서브도메인(뉴스/허브/동영상/쇼핑), 금융 서비스 개발/운영
@@ -224,7 +224,7 @@
   - javascript에 대한 이해가 있으신 분
   - devops를 지향하거나 경험이나 지식이 있으신 분.
 
-💎 FLO (음악플랫폼)
+### 💎 FLO (음악플랫폼)
 
 - 기술스택
   - Java, Kotlin, Go, Python, MongoDB, MSA, Spring, Redis, Zookeeper, Linux
